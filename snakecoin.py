@@ -41,7 +41,7 @@ previous_block = blockchain[0]
 
 # How many blocks should we add to the chain
 # after the genesis block
-num_of_blocks_to_add = 30
+num_of_blocks_to_add = 100
 
 # Add blocks to the chain
 for i in range(num_of_blocks_to_add):
